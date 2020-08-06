@@ -1,5 +1,5 @@
 
-<img src="https://github.com/abinrajkb/abinrajkb/blob/master/tech.gif" width="100%">
+<img src="https://github.com/abinrajkb/abinrajkb/blob/master/globe.gif" width="100%">
 
 <!--
 ### Hi there 👋
